@@ -1,0 +1,56 @@
+
+.container1{
+    margin-top: 50px;
+    background-image: url("1.PNG");
+    height: 400px;
+    width: 600px;
+    margin-left: 50px;
+    border-radius: 10px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+	position: relative;
+	overflow: hidden;
+}
+.a{
+    background-color: transparent;
+    display: flex;
+    gap: 35px;
+    margin-top: 1cm;
+     
+}
+.container2{
+    margin-top: 80px;
+    height: 300px;
+    width: 400px;
+    margin-right: 50;
+    text-align: center;
+    background-color: #fff;
+	border-radius: 10px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+	position: relative;
+	overflow: hidden;
+}
+button {
+    color: black;
+    font-weight: bold;
+
+}
+h1 {
+	font-weight: bold;
+	margin: 0;
+}
+
+h3 {
+	text-align: center;
+}
+
+
+.principale{
+    display: flex;
+   
+    gap: 70px;
+   
+ 
+}
+
